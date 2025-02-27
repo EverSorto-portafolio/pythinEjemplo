@@ -1,3 +1,15 @@
 #un cajero automatico 
 
-usuario = "1234"
+usuario = list()
+
+usuario.append("Ever Alfredo")  # string str 
+usuario.append("1234")          #string str
+usuario.append(1000)            #int
+
+recibo = list()
+recibo.append(["123", 600]) 
+recibo.append(["124", 845]) 
+recibo.append(["125",  67]) 
+recibo.append(["126", 500]) 
+recibo.append(["127", 100]) 
+recibo.append(["128", 1000]) 
